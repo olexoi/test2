@@ -154,7 +154,7 @@ function getTransactionType(event, symbol0, symbol1) {
     case TXN_TYPE.REMOVE:
       return 'Remove ' + formattedS0 + ' and ' + formattedS1
     case TXN_TYPE.SWAP:
-      return 'Swap ' + formattedS0 + ' for ' + formattedS1
+      return 'Exchange ' + formattedS0 + ' for ' + formattedS1
     default:
       return ''
   }
