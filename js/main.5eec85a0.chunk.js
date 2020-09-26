@@ -470,7 +470,7 @@
                 ce = t.n(ie);
 
             function ue() {
-                var e = Object(d.a)(["\n  background: #FFFDFA;\n  border-radius: 20px;\n  display: flex;\n  color: #7645D9;\n  flex: 1;\n  box-shadow: 0px 2px 8px rgba(171, 133, 115, 0.21);\n  border-radius: 20px;\n  flex-direction: column;\n"]);
+                var e = Object(d.a)(["\n  background: #FFFDFA;\n  border-radius: 20px;\n  display: flex;\n  color: #B9C9BC;\n  flex: 1;\n  box-shadow: 0px 2px 8px rgba(171, 133, 115, 0.21);\n  border-radius: 20px;\n  flex-direction: column;\n"]);
                 return ue = function () {
                     return e
                 }, e
@@ -799,7 +799,7 @@
                     },
                     name: "Meow STAKING",
                     symbol: "MEOW",
-                    tokenSymbol: "MRR",
+                    tokenSymbol: "SYRUP",
                     icon: "\ud83e\udd5e"
                 }, {
                     pid: 1,
@@ -2286,14 +2286,14 @@
                 };
 
             function Et() {
-                var e = Object(d.a)(["\n  color: ", ";\n  font-weight: 700;\n  padding-left: ", "px;\n  padding-right: ", "px;\n  text-decoration: none;\n  &:hover {\n    color: #452A7A;\n  }\n  &.active {\n    color: ", ";\n  }\n  @media (max-width: 400px) {\n    padding-left: ", "px;\n    padding-right: ", "px;\n  }\n"]);
+                var e = Object(d.a)(["\n  color: ", ";\n  font-weight: 700;\n  padding-left: ", "px;\n  padding-right: ", "px;\n  text-decoration: none;\n  &:hover {\n    color: #4F7858;\n  }\n  &.active {\n    color: ", ";\n  }\n  @media (max-width: 400px) {\n    padding-left: ", "px;\n    padding-right: ", "px;\n  }\n"]);
                 return Et = function () {
                     return e
                 }, e
             }
 
             function wt() {
-                var e = Object(d.a)(["\n  color: ", ";\n  font-weight: 700;\n  padding-left: ", "px;\n  padding-right: ", "px;\n  text-decoration: none;\n  &:hover {\n    color: #452A7A;\n  }\n  &.active {\n    color: ", ";\n  }\n  @media (max-width: 400px) {\n    padding-left: ", "px;\n    padding-right: ", "px;\n  }\n"]);
+                var e = Object(d.a)(["\n  color: ", ";\n  font-weight: 700;\n  padding-left: ", "px;\n  padding-right: ", "px;\n  text-decoration: none;\n  &:hover {\n    color: #4F7858;\n  }\n  &.active {\n    color: ", ";\n  }\n  @media (max-width: 400px) {\n    padding-left: ", "px;\n    padding-right: ", "px;\n  }\n"]);
                 return wt = function () {
                     return e
                 }, e
@@ -2539,15 +2539,15 @@
                             300: "#FFFDFA",
                             400: "#12AAB5",
                             500: "#805e49",
-                            600: "#452A7A",
+                            600: "#4F7858",
                             800: "#2d1e12"
                         },
                         blue: {
-                            100: "#7645D9"
+                            100: "#B9C9BC"
                         },
                         primary: {
                             light: "#ffc2a8",
-                            main: "#452A7A"
+                            main: "#4F7858"
                         },
                         secondary: {
                             main: "##00d1810"
@@ -3324,7 +3324,7 @@
             }
 
             function fr() {
-                var e = Object(d.a)(["\n  color:#7645D9;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
+                var e = Object(d.a)(["\n  color:#B9C9BC;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
                 return fr = function () {
                     return e
                 }, e
@@ -3547,7 +3547,7 @@
             }
 
             function Gr() {
-                var e = Object(d.a)(["\nline-height: 1.5rem;\ncolor: #7645D9;\n  >span {\n    float: left;\n  }\n  .right {\n    float: right;\n    color: #452A7A;\n    font-weight: 900;\n  }\n"]);
+                var e = Object(d.a)(["\nline-height: 1.5rem;\ncolor: #B9C9BC;\n  >span {\n    float: left;\n  }\n  .right {\n    float: right;\n    color: #4F7858;\n    font-weight: 900;\n  }\n"]);
                 return Gr = function () {
                     return e
                 }, e
@@ -3753,7 +3753,7 @@
             }
 
             function li() {
-                var e = Object(d.a)(["\n  color:#7645D9;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
+                var e = Object(d.a)(["\n  color:#B9C9BC;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
                 return li = function () {
                     return e
                 }, e
@@ -3908,28 +3908,28 @@
             }
 
             function Ti() {
-                var e = Object(d.a)(["\n  font-family: 'Roboto Mono', monospace;\n  float: right;\n  height: 50px;\n  line-height: 50px;\n  color: #7645D9;\n"]);
+                var e = Object(d.a)(["\n  font-family: 'Roboto Mono', monospace;\n  float: right;\n  height: 50px;\n  line-height: 50px;\n  color: #B9C9BC;\n"]);
                 return Ti = function () {
                     return e
                 }, e
             }
 
             function Ci() {
-                var e = Object(d.a)(["\n  font-size: 14px;\n  padding: 0 20px;\n  line-height: 50px;\n  color: #7645D9;\n  border-top: solid 1px #7645d938;\n  padding: 0 2rem;\n"]);
+                var e = Object(d.a)(["\n  font-size: 14px;\n  padding: 0 20px;\n  line-height: 50px;\n  color: #B9C9BC;\n  border-top: solid 1px #7645d938;\n  padding: 0 2rem;\n"]);
                 return Ci = function () {
                     return e
                 }, e
             }
 
             function Bi() {
-                var e = Object(d.a)(["\n  color: #7645D9;\n  @media (max-width: 500px) {\n    line-height: 20px;\n  }\n"]);
+                var e = Object(d.a)(["\n  color: #B9C9BC;\n  @media (max-width: 500px) {\n    line-height: 20px;\n  }\n"]);
                 return Bi = function () {
                     return e
                 }, e
             }
 
             function Ai() {
-                var e = Object(d.a)(["\n  line-height: 40px;\n  color: #7645D9;\n"]);
+                var e = Object(d.a)(["\n  line-height: 40px;\n  color: #B9C9BC;\n"]);
                 return Ai = function () {
                     return e
                 }, e
@@ -4128,7 +4128,7 @@
             }
 
             function $i() {
-                var e = Object(d.a)(["\n  font-family: 'monospace', sans-serif;\n  line-height: 80px;\n  color: #7645D9;\n  font-size: 32px;\n  font-weight: 700;\n  margin: 0;\n  margin-top: 10px;\n  padding: 0;\n  @media (max-width: 850px) {\n    display: none;\n  }\n"]);
+                var e = Object(d.a)(["\n  font-family: 'monospace', sans-serif;\n  line-height: 80px;\n  color: #B9C9BC;\n  font-size: 32px;\n  font-weight: 700;\n  margin: 0;\n  margin-top: 10px;\n  padding: 0;\n  @media (max-width: 850px) {\n    display: none;\n  }\n"]);
                 return $i = function () {
                     return e
                 }, e
@@ -4280,7 +4280,7 @@
                     return r.a.createElement(se, null, r.a.createElement(de, null, r.a.createElement(vc, null, r.a.createElement(hc, null, r.a.createElement(w, null, "\ud83d\udd38"), r.a.createElement(Mn, {
                         value: Ce(i)
                     }), r.a.createElement(Tn, {
-                        text: "MRR"
+                        text: "SYRUP"
                     })), r.a.createElement(xc, null, r.a.createElement(v, {
                         disabled: !0,
                         text: "To Vote"
@@ -4531,7 +4531,7 @@
             }
 
             function Ic() {
-                var e = Object(d.a)(["\n  color:#7645D9;\n  font-size:20px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  line-height:  2rem;\n"]);
+                var e = Object(d.a)(["\n  color:#B9C9BC;\n  font-size:20px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  line-height:  2rem;\n"]);
                 return Ic = function () {
                     return e
                 }, e
@@ -4578,9 +4578,9 @@
                             src: Yi.a,
                             height: "90"
                         }),
-                        title: "Stake Meow, get MRR.",
-                        subtitle: "MRR holders proportionally split 25% of MEOW block emissions each day (10 MEOW per block), Rewards are distributed each block. MRR will also be used to for the KittyExchange Lottery and general governance. "
-                    }), r.a.createElement(Pc, null, "1 MEOW = 1 MRR"), r.a.createElement(Pc, null, "You can swap back anytime"), r.a.createElement(F, {
+                        title: "Stake Meow, get SYRUP.",
+                        subtitle: "SYRUP holders proportionally split 25% of MEOW block emissions each day (10 MEOW per block), Rewards are distributed each block. SYRUP will also be used to for the KittyExchange Lottery and general governance. "
+                    }), r.a.createElement(Pc, null, "1 MEOW = 1 SYRUP"), r.a.createElement(Pc, null, "You can swap back anytime"), r.a.createElement(F, {
                         size: "lg"
                     }), r.a.createElement(zc, null, r.a.createElement(Lc, null, r.a.createElement(Rc, null, r.a.createElement(gc, null)), r.a.createElement(F, null), r.a.createElement(Rc, null, r.a.createElement(dc, {
                         pid: n

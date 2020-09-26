@@ -146,7 +146,7 @@
                 }, e
             }
             var b = l.c.button(y(), (function (e) {
-                    return e.disabled ? "#ddd" : "linear-gradient(180deg, #54DADE 0%, #24C7D6 76.22%)"
+                    return e.disabled ? "#ddd" : "linear-gradient(180deg, #95AE9B 0%, #4F7858 76.22%)"
                 }), (function (e) {
                     return e.disabled ? "".concat(e.color, "55") : e.color
                 }), (function (e) {
@@ -470,7 +470,7 @@
                 ce = t.n(ie);
 
             function ue() {
-                var e = Object(d.a)(["\n  background: #FFFDFA;\n  border-radius: 20px;\n  display: flex;\n  color: #7645D9;\n  flex: 1;\n  box-shadow: 0px 2px 8px rgba(171, 133, 115, 0.21);\n  border-radius: 20px;\n  flex-direction: column;\n"]);
+                var e = Object(d.a)(["\n  background: #FFFDFA;\n  border-radius: 20px;\n  display: flex;\n  color: #4F7858;\n  flex: 1;\n  box-shadow: 0px 2px 8px rgba(171, 133, 115, 0.21);\n  border-radius: 20px;\n  flex-direction: column;\n"]);
                 return ue = function () {
                     return e
                 }, e
@@ -2546,7 +2546,7 @@
                             800: "#2d1e12"
                         },
                         blue: {
-                            100: "#7645D9"
+                            100: "#4F7858"
                         },
                         primary: {
                             light: "#ffc2a8",
@@ -3327,7 +3327,7 @@
             }
 
             function fr() {
-                var e = Object(d.a)(["\n  color:#7645D9;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
+                var e = Object(d.a)(["\n  color:#4F7858;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
                 return fr = function () {
                     return e
                 }, e
@@ -3550,7 +3550,7 @@
             }
 
             function Gr() {
-                var e = Object(d.a)(["\nline-height: 1.5rem;\ncolor: #7645D9;\n  >span {\n    float: left;\n  }\n  .right {\n    float: right;\n    color: #452A7A;\n    font-weight: 900;\n  }\n"]);
+                var e = Object(d.a)(["\nline-height: 1.5rem;\ncolor: #4F7858;\n  >span {\n    float: left;\n  }\n  .right {\n    float: right;\n    color: #452A7A;\n    font-weight: 900;\n  }\n"]);
                 return Gr = function () {
                     return e
                 }, e
@@ -3756,7 +3756,7 @@
             }
 
             function li() {
-                var e = Object(d.a)(["\n  color:#7645D9;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
+                var e = Object(d.a)(["\n  color:#4F7858;\n  font-size:29px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  margin: 50px;\n"]);
                 return li = function () {
                     return e
                 }, e
@@ -3911,28 +3911,28 @@
             }
 
             function Ti() {
-                var e = Object(d.a)(["\n  font-family: 'Roboto Mono', monospace;\n  float: right;\n  height: 50px;\n  line-height: 50px;\n  color: #7645D9;\n"]);
+                var e = Object(d.a)(["\n  font-family: 'Roboto Mono', monospace;\n  float: right;\n  height: 50px;\n  line-height: 50px;\n  color: #4F7858;\n"]);
                 return Ti = function () {
                     return e
                 }, e
             }
 
             function Ci() {
-                var e = Object(d.a)(["\n  font-size: 14px;\n  padding: 0 20px;\n  line-height: 50px;\n  color: #7645D9;\n  border-top: solid 1px #7645d938;\n  padding: 0 2rem;\n"]);
+                var e = Object(d.a)(["\n  font-size: 14px;\n  padding: 0 20px;\n  line-height: 50px;\n  color: #4F7858;\n  border-top: solid 1px #7645d938;\n  padding: 0 2rem;\n"]);
                 return Ci = function () {
                     return e
                 }, e
             }
 
             function Bi() {
-                var e = Object(d.a)(["\n  color: #7645D9;\n  @media (max-width: 500px) {\n    line-height: 20px;\n  }\n"]);
+                var e = Object(d.a)(["\n  color: #4F7858;\n  @media (max-width: 500px) {\n    line-height: 20px;\n  }\n"]);
                 return Bi = function () {
                     return e
                 }, e
             }
 
             function Ai() {
-                var e = Object(d.a)(["\n  line-height: 40px;\n  color: #7645D9;\n"]);
+                var e = Object(d.a)(["\n  line-height: 40px;\n  color: #4F7858;\n"]);
                 return Ai = function () {
                     return e
                 }, e
@@ -4131,7 +4131,7 @@
             }
 
             function $i() {
-                var e = Object(d.a)(["\n  font-family: 'monospace', sans-serif;\n  line-height: 80px;\n  color: #7645D9;\n  font-size: 32px;\n  font-weight: 700;\n  margin: 0;\n  margin-top: 10px;\n  padding: 0;\n  @media (max-width: 850px) {\n    display: none;\n  }\n"]);
+                var e = Object(d.a)(["\n  font-family: 'monospace', sans-serif;\n  line-height: 80px;\n  color: #4F7858;\n  font-size: 32px;\n  font-weight: 700;\n  margin: 0;\n  margin-top: 10px;\n  padding: 0;\n  @media (max-width: 850px) {\n    display: none;\n  }\n"]);
                 return $i = function () {
                     return e
                 }, e
@@ -4534,7 +4534,7 @@
             }
 
             function Ic() {
-                var e = Object(d.a)(["\n  color:#7645D9;\n  font-size:20px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  line-height:  2rem;\n"]);
+                var e = Object(d.a)(["\n  color:#4F7858;\n  font-size:20px;\n  width: 50vw;\n  text-align: center;\n  font-weight: 900;\n  line-height:  2rem;\n"]);
                 return Ic = function () {
                     return e
                 }, e

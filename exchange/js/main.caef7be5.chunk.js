@@ -93,7 +93,7 @@
             e.exports = t.p + "media/blue-loader.904b44c2.svg"
         },
         167: function (e, n, t) {
-            e.exports = t.p + "media/logoh.87cad23c.png"
+            e.exports = t.p + "/media/logoh.87cad23c.png"
         },
         168: function (e, n, t) {
             e.exports = t.p + "media/metamask.023762b6.png"
